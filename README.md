@@ -1,170 +1,198 @@
-<h1 align="center">Hi 👋, I'm Muhammad Umair</h1>
-<h3 align="center">Full Stack Developer | MERN & MEAN Stack Specialist | WordPress Expert</h3>
+<h1 align="center">Muhammad Umair</h1>
+
+<h3 align="center">
+🚀 Full Stack Developer | MERN Stack | MEAN Stack | WordPress Expert | DevOps Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Expert-Vetted&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+Building scalable SaaS products, enterprise applications, and high-performance web platforms.
 </p>
 
 <p align="center">
-Building scalable web applications, SaaS platforms, eCommerce solutions, and cloud-powered systems.
-</p>
-
----
-
-## 🚀 About Me
-
-- 💼 Full Stack Developer with expertise in modern web technologies
-- 🌐 Specialized in MERN & MEAN Stack Development
-- ⚡ Building high-performance applications using React, Next.js, Node.js, and PHP
-- 🛒 Experienced in WordPress, WooCommerce, and Custom Plugin Development
-- ☁️ Passionate about Cloud Infrastructure, DevOps, and CI/CD Automation
-- 🔥 Focused on scalable architectures, performance optimization, and clean code
-- 🤝 Open to collaborating on innovative products and startup projects
-
----
-
-# 🛠 Tech Stack
-
-<table>
-<tr>
-<td><strong>Frontend</strong></td>
-<td>
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
-
-</td>
-</tr>
-
-<tr>
-<td><strong>Backend</strong></td>
-<td>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
-
-</td>
-</tr>
-
-<tr>
-<td><strong>CMS</strong></td>
-<td>
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor)
-
-</td>
-</tr>
-
-<tr>
-<td><strong>Database</strong></td>
-<td>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-</td>
-</tr>
-
-<tr>
-<td><strong>DevOps</strong></td>
-<td>
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
-![CI/CD](https://img.shields.io/badge/CI/CD-181717?style=for-the-badge&logo=github)
-
-</td>
-</tr>
-</table>
-
----
-
-## 💡 Core Expertise
-
-✔ Full Stack Web Development
-
-✔ MERN Stack Applications
-
-✔ MEAN Stack Applications
-
-✔ REST APIs & Microservices
-
-✔ SaaS Product Development
-
-✔ WordPress & WooCommerce Solutions
-
-✔ Firebase Integrations
-
-✔ Cloud Deployments
-
-✔ CI/CD Automation
-
-✔ Performance Optimization
-
-✔ Database Design & Management
-
-✔ Responsive UI/UX Development
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="stats" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Muhammad+Umair;Full+Stack+Developer;MERN+%7C+MEAN+%7C+WordPress;Node.js+%7C+React+%7C+Next.js;Firebase+%7C+CI%2FCD+%7C+AWS;Building+Scalable+Applications" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="languages" />
+<img src="https://komarev.com/ghpvc/?username=Expert-Vetted&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 What I Build
+# 💫 About Me
 
-🔹 SaaS Platforms
+💻 Full Stack Developer passionate about creating modern, scalable, and high-performance web applications.
 
-🔹 Enterprise Dashboards
+🌎 Helping startups, businesses, and entrepreneurs turn ideas into successful digital products.
 
-🔹 eCommerce Stores
+⚡ Specialized in:
 
-🔹 CRM Systems
-
-🔹 Booking Platforms
-
-🔹 Admin Panels
-
-🔹 API-Driven Applications
-
-🔹 Cloud-Native Solutions
+- MERN Stack Development
+- MEAN Stack Development
+- Next.js Applications
+- Node.js & Express APIs
+- PHP & Laravel Solutions
+- WordPress & WooCommerce
+- Firebase Integrations
+- Cloud Deployments
+- CI/CD Automation
+- SaaS Product Development
 
 ---
 
-## 🤝 Let's Connect
+# 🚀 What I Do
 
-<p align="left">
+✅ Full Stack Web Development
+
+✅ Enterprise Web Applications
+
+✅ SaaS Platforms
+
+✅ Custom APIs & Integrations
+
+✅ WordPress & WooCommerce Development
+
+✅ Dashboard & Admin Panels
+
+✅ Cloud Infrastructure & Deployment
+
+✅ CI/CD Pipeline Automation
+
+✅ Database Design & Optimization
+
+✅ Performance Optimization
+
+---
+
+# 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,github,git,linux,vscode" />
+</p>
+
+### CMS
+
+<p>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Expert-Vetted&theme=algolia&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Expert-Vetted&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Expert-Vetted&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Expert-Vetted&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Expert-Vetted&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🔥 Featured Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,firebase,php,laravel,wordpress,docker,aws,github,git" />
+</p>
+
+---
+
+# 🎯 Core Expertise
+
+| Area | Technologies |
+|--------|-------------|
+| Frontend | React.js, Next.js, JavaScript, TypeScript, Tailwind CSS |
+| Backend | Node.js, Express.js, PHP, Laravel |
+| Database | MongoDB, MySQL, Firebase |
+| CMS | WordPress, WooCommerce |
+| DevOps | Docker, AWS, GitHub Actions, CI/CD |
+| APIs | REST APIs, Third Party Integrations |
+| Deployment | VPS, AWS, Linux Servers |
+
+---
+
+# 🚀 Services
+
+### 🌐 Full Stack Development
+Building scalable web applications using modern technologies.
+
+### 🛒 E-Commerce Solutions
+WooCommerce, custom stores, payment gateway integrations, and marketplace solutions.
+
+### ⚙️ API Development
+REST APIs, Authentication Systems, and third-party integrations.
+
+### ☁️ Cloud & DevOps
+Docker, CI/CD Pipelines, AWS Deployments, and Infrastructure Management.
+
+### 🔥 Firebase Development
+Authentication, Firestore, Realtime Database, and Cloud Functions.
+
+---
+
+# 📚 Currently Exploring
+
+- AI Integrations
+- Advanced System Design
+- Kubernetes
+- Cloud Native Applications
+- Event Driven Architectures
+- Scalable SaaS Infrastructure
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
 
 <a href="https://github.com/Expert-Vetted">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 </p>
 
 ---
 
 <h3 align="center">
-⭐ Building scalable solutions with modern technologies.
+⭐ Building Modern, Scalable & High-Performance Applications ⭐
 </h3>
